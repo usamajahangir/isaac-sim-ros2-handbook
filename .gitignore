@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.venv
+.env
+
+install/
+build/
+log/
+
+*.usd
+*.usda
+*.ov-cache
